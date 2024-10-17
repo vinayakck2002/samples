@@ -44,6 +44,11 @@
 # print(list.count("apple"))
 
 # print(l.index(25))
+
+#SORT
+#REVERSE
+#COPY
+
     
     
     
