@@ -4,9 +4,11 @@ if(unit<=100):
 elif(unit<=200):
     unit=200-100
     cost=unit*5
+    print(cost)
 elif(unit>200):
     unit=unit-200
     cost=(unit*10)+500
+    print(cost)
 else:
     print("Invalid")
     
