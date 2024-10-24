@@ -17,10 +17,10 @@ elif(check==3):
     print(python.intersection(java,php))
     
 elif(check==4):
-   union_of_Sets = python.union(java,php)  
+   union= python.union(java,php)  
    inter1 = python.intersection(java)  
    inter2 = java.intersection(php)  
-   s = union_of_Sets - inter1 - inter2 
+   s = union - inter1 - inter2 
    print(s)
 else:
     print("invalid")

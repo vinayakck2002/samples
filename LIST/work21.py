@@ -1,7 +1,7 @@
 # remove duplicate values from the list
 list=["Hai","helo","Hai"]
-L=[]
+l=[]
 for i in list:
-    if i not in L:
-        L.append(i)
-print(L)
+    if i not in l:
+        l.append(i)
+print(l)
