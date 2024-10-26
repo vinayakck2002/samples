@@ -11,7 +11,7 @@ while(i<=l):
     elif(i%2==1):
         osum=osum+i
     i=i+1
-print(nsum,"is thesum of natural number")
+print(nsum,"is the sum of natural number")
 print(esum,"is the sum of even number")
 print(osum," is the sum of odd number")
 

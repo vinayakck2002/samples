@@ -1,0 +1,4 @@
+#TO PRINT THE FIRST STRING VALUE ELEMENT
+string="time"
+print(string[0])#0 IS INDEX OF TIME
+
