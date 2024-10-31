@@ -23,5 +23,6 @@ elif(check==4):
    s = union - inter1 - inter2 
    print(s)
 else:
+
     print("invalid")
 
