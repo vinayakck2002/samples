@@ -8,10 +8,15 @@ print(s1.isdisjoint(s))
 print(s1.issubset(s))
 print(s1.issuperset(s))
 print(s1.symmetric_difference(s))
+
+
 s2=s1.copy()
+
 s.difference_update(s1)
 print(s)
+
 s.intersection_update(s1)
 print(s)
+
 s.symmetric_difference_update(s1)
 print(s)
