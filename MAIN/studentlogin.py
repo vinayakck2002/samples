@@ -11,7 +11,7 @@ while(True):
         student_Details[adno]={"name":name, "age":age,"course":course}
         print("added successfully")
     elif(c==2):
-        student_Details=student_Details-[adno]
+        student_Details=student_Details-([adno])
         print("delete successfully")
     elif(c==3):
         adno=int(input("Enter your admission number:"))

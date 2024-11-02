@@ -7,8 +7,8 @@ def subract(a,b):
     return sum
 
 def multiply(a,b):
-    sum=a*b
-    return sum
+    return a*b
+    
 
 def divide(a,b):
     sum=a/b
@@ -22,6 +22,7 @@ while True:
      
      if(choice==1):
          print(add(a,b))
+        
   
 
 
