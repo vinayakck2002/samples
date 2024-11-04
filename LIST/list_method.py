@@ -23,6 +23,11 @@
 # a=[1,3,4,5,2,2]
 # b=a.copy()
 # print(b)
+ 
+ 
+# length method
+
+
 
 
 
