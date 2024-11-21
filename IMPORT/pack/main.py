@@ -16,7 +16,7 @@
 
 #-------------------------------------------------------------#
 
-from module1 import *#from module_name import * (Calling all fucntion and variables use *)
+from module1 import * #from module_name import * (Calling all fucntion and variables use *)
 sample()
 print(l)
 
