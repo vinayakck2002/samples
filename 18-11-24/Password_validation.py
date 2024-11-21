@@ -1,5 +1,5 @@
 import re
-password=input("Enter the your PAssword: ")
+password=input("Enter the Password: ")
 check="[a-z]+[0-9]+[@]+[.]"
 if re.search(password,check):
     print("Correct")
