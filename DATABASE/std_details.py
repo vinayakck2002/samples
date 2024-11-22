@@ -7,5 +7,5 @@ for i in range(limit):
     email=input("Enter your email: ")
     phno=int(input("Enter your number: "))
     con.execute('insert into u_details(user_id,user_nme,user_email,user_phno)values(?,?,?,?)',(id,name,email,phno))
-con.commit()    
+con.commit()
     
