@@ -55,6 +55,6 @@
 
 import re
 s='Welcome@123'
-res=re.search('[A-Z].{11}',s)#[---- Is there any one ca[ital,small,number occured in s ----]
+res=re.search('[A-Z].{8}',s)
 print(res)
 
