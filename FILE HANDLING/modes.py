@@ -10,7 +10,7 @@
 #     f=open("samples/FILE HANDLING/demo.txt","x")#create a text file stored in a f variable
 # except:
 #     pass
-# f=open('samples/FILE HANDLING/demo.txt','w')
+# f=open('samples/FILE HANDLING/demo.txt','w')#
 # f.write('Welcome back another folder')
 
 # f=open("file.txt","w")
