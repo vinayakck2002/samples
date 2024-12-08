@@ -24,6 +24,11 @@ class Library:
         self.Book.append(Book)
         print("Book Added")
 
+    def Search_book(self,title):
+        for book in self.book:
+        
+    
+
 
 
 
