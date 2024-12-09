@@ -6,3 +6,4 @@ except:
     pass
 con.execute('insert into u_details values(123,"abhi","abhi@gmail.com",9495334256)')
 con.commit()
+con.close()
